@@ -4,7 +4,7 @@ This readme describe the steps taken to create the tidy data and new tidy data t
 
 the data the used in the analysis are already downloaded in the working directory under "UCI HAR Dataset". In order to run this function, ensure that data is already downloaded and unzipped in the mentioned folder.
 
-- Functions: there are three functions in the assignments
+- Functions: there are two functions in the assignments
   - create_DF(TestOrTrain,featuresIds,columnNames,activitynames)
   - run_analysis()
     
