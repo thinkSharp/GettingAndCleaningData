@@ -1,4 +1,4 @@
-## Tidy Data Cration Steps
+## Getting and Cleaning data Course Project
 
 This readme describe the steps taken to create the tidy data and new tidy data that find the average of the measurements of the subjects by the activity.
 
