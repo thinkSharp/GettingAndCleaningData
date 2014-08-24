@@ -1,11 +1,6 @@
 ## Code book 
   - this code book contains information regarding how to create the Tidy Data file and transformation and cleaning process done by each of the functions as well as list of columns of the tidy data.
 
-### Creating Tidy Data
-   - inorder to create tidy data, please download the zip data file from the following URL. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-   - Unzip and save the data in "UCI HAR Dataset" in the working directory
-   - execute run-analysis() function in the working directory (assuming the run_analysis is already in the working directory)
-   - execution create step5.txt file in the working directory
    
 ### run_analysis()
     - creata a text file containing tidy data of the average of the measurements by activities of subjects. 

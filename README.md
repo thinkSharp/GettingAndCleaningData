@@ -4,6 +4,12 @@ This readme describe the steps taken to create the tidy data and new tidy data t
 
 the data the used in the analysis are already downloaded in the working directory under "UCI HAR Dataset". In order to run this function, ensure that data is already downloaded and unzipped in the mentioned folder.
 
+### Creating Tidy Data
+   - inorder to create tidy data, please download the zip data file from the following URL. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+   - Unzip and save the data in "UCI HAR Dataset" in the working directory
+   - execute run-analysis() function in the working directory (assuming the run_analysis is already in the working directory)
+   - execution create step5.txt file in the working directory
+   
 ### Functions: there are two functions in the assignments
   - create_DF(TestOrTrain,featuresIds,columnNames,activitynames)
   - run_analysis()
